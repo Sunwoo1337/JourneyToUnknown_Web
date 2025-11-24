@@ -2,6 +2,9 @@
 
 Made with Using RPG Maker MZ
 
-plugins used
+**Assets Used**
 
-for hp bar : https://github.com/theoallen/RMMZ/tree/master/Plugins 
+File Name : HP Bar Plug In
+What is it : a plug in that displays hp bar
+Where it comes from : https://github.com/theoallen/RMMZ/tree/master/Plugins 
+Who created : theoallen
